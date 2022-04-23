@@ -36,10 +36,10 @@ public class 지그재그_숫자 {
 					sum += i;
 				}
 			}
-
+			
 			sb.append(sum).append("\n");
 		}
-
+		
 		br.close();
 		System.out.println(sb);
 	}
