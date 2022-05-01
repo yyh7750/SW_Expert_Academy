@@ -24,6 +24,7 @@ public class 간단한_369_게임 {
 
 		for (int i = 1; i <= Integer.parseInt(n); i++) {
 			String str = String.valueOf(i);
+			// 3. 6. 9 포함일 경우
 			if (str.contains("3") || str.contains("6") || str.contains("9")) {
 				for (int j = 0; j < str.length(); j++) {
 					char c = str.charAt(j);
