@@ -48,6 +48,7 @@ public class 순열1 {
 		}
 
 		br.close();
+		sb.setLength(sb.length() - 1);
 		System.out.println(sb);
 	}
 }
