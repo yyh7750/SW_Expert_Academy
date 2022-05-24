@@ -39,7 +39,7 @@ public class 카드_게임 {
 				counting[card - 2]--;
 			}
 
-			for (int j = 0; j < counting.length; j++) {
+			for (int j = 0; j < score.length; j++) {
 				if (sum + score[j] > 21) {
 					count += counting[j];
 				}
