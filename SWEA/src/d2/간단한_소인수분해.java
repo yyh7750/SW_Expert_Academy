@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * @packageName : d2
- * @description : 
+ * @description : N = 2^a x 3^b x 5^c x 7^d x 11^e 일 때 a, b, c, d, e를 출력하는 프로그램
  * @author : Younghun Yu
  * @date : 2022.05.01
  * ===========================================================
